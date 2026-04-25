@@ -250,7 +250,7 @@ export default function Home() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/30 to-transparent"></div>
               <div className="absolute bottom-10 left-10 text-white z-10">
-                <h3 className="text-4xl font-serif italic mb-1 tracking-tight">Focus</h3>
+                <h3 className="text-4xl font-serif italic mb-1 tracking-tight"></h3>
                 <p className="text-xs tracking-[0.5em] uppercase text-zinc-400">Modelo Presencial Medellín</p>
               </div>
             </div>
@@ -259,7 +259,7 @@ export default function Home() {
             <div className="w-full md:w-1/2 p-8 md:p-14 flex flex-col justify-center text-white overflow-y-auto">
               <p className="text-zinc-500 tracking-[0.3em] text-[10px] uppercase mb-2">Convocatoria Abierta</p>
               <h2 className="text-3xl font-light mb-6 leading-tight uppercase tracking-wide">
-                Casting <br/><span className="font-bold">Focus Collection</span>
+                Casting <br/><span className="font-bold"></span>
               </h2>
               
               <p className="text-sm text-zinc-400 font-light mb-10 leading-relaxed max-w-sm">
