@@ -379,7 +379,7 @@ export default function Home() {
               <h3 className="text-xl md:text-2xl font-light tracking-widest text-gray-800 uppercase">Diseños Exclusivos</h3>
               <div className="h-[1px] bg-gray-300 w-32 md:w-64"></div>
             </div>
-            <a href="#" className="mt-4 text-xs tracking-wider text-gray-600 border-b border-gray-600 pb-[1px] hover:text-black hover:border-black transition-colors">
+            <a href="/colletion" className="mt-4 text-xs tracking-wider text-gray-600 border-b border-gray-600 pb-[1px] hover:text-black hover:border-black transition-colors">
               Ver más
             </a>
           </div>
